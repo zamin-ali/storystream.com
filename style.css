@@ -1,0 +1,31 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  /* overflow: hidden; */
+  background-color: #FFF2D7;
+}
+
+nav{
+  background-color: #F1E5D1;
+  /* background-color: hsla(blue,rgb(152, 74, 74),green, 100%); */
+
+  box-shadow: 3px 3px 3px rgb(107, 102, 102);
+  
+}
+.imag{
+  box-shadow: 3px 3px 3px 3px rgb(120, 116, 116);
+  border-style:groove;
+  border-color:white ;
+  /* margin: 1rem; */
+  margin-bottom: 30px;
+  
+  
+  width: 300px;
+  height: 300px;
+/* margin-right: 800PX; */
+}
